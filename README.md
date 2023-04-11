@@ -1,6 +1,6 @@
 # portfolio
 
-Portifolio do desenvolvedor 
+Portfolio do desenvolvedor 
 
 ## Tarefas
 O contro;e das tarefas desse projeto será realizado no Github
